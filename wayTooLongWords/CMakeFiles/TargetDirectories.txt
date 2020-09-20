@@ -1,0 +1,3 @@
+/home/robertd/competitiveProgramming/wayTooLongWords/CMakeFiles/rebuild_cache.dir
+/home/robertd/competitiveProgramming/wayTooLongWords/CMakeFiles/edit_cache.dir
+/home/robertd/competitiveProgramming/wayTooLongWords/CMakeFiles/WayTooLongWords.dir
