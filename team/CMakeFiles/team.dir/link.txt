@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -std=c++14 CMakeFiles/team.dir/src/team.cpp.o -o team 
