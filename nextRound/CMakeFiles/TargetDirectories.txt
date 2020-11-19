@@ -1,0 +1,3 @@
+/home/robertd/competitiveProgramming/nextRound/CMakeFiles/rebuild_cache.dir
+/home/robertd/competitiveProgramming/nextRound/CMakeFiles/edit_cache.dir
+/home/robertd/competitiveProgramming/nextRound/CMakeFiles/nextRound.dir

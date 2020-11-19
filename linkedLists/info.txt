@@ -1,0 +1,7 @@
+A list where each elemnt points to another element
+- Queue {First in first out fifo}
+- Stack {Last in last out lifo}
+- Doubly ll {links back to previous element}
+Start of list = head
+end of list = tail
+____________________________________________________________

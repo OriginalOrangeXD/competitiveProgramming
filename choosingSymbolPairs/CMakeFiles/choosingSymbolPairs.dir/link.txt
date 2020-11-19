@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -std=c++14 -g CMakeFiles/choosingSymbolPairs.dir/src/choosingSymbolPairs.cpp.o -o choosingSymbolPairs 

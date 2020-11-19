@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robertd/competitiveProgramming/choosingSymbolPairs/src/choosingSymbolPairs.cpp
+string
+-
+bits/stdc++.h
+-
+
